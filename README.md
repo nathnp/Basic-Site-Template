@@ -2,6 +2,8 @@
 
 This is a website template designed to help people get a basic landing page on the web.
 
+This template uses [Simple.CSS](https://simplecss.org) for its CSS.
+
 ## How to Use
 
 1. Download the latest [release](https://github.com/nathnp/Basic-Site-Template/releases)
