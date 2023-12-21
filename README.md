@@ -46,7 +46,7 @@ Replace `NAME` with your name in the copyright section.
 
 ### More Links
 
-Extra links can be added to the nav bar easily. Simply copy the code listed in Nave Links section, and paste it above `</ul>`. To add a link in your main area, follow this example using the `a` tag.
+Extra links can be added to the nav bar easily. Simply copy the code listed in [Nav Links](https://github.com/nathnp/Basic-Site-Template/tree/Dev#nav-links) section, and paste it above `</ul>`. To add a link in your main area, follow this example using the `a` tag.
 ```HTML
 This is a test <a href='https://nthp.me'>link</a>
 ```
