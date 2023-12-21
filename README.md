@@ -56,7 +56,7 @@ Just add your image to the pics folder, and use the `img` tag.
 ```HTML
 <img src='/pics/file.png'/>
 ```
-If you would like to add an image from elsewhere on the web, the image's link in the `src` field.
+If you would like to add an image from elsewhere on the web, add the image's link in the `src` field.
 ```HTML
 <img src='https://i258.photobucket.com/albums/hh253/jimifunguzz/rick-astley-dancing.gif'/>
 ```
