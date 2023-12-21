@@ -4,6 +4,8 @@ This is a website template designed to help people get a basic landing page on t
 
 This template uses [Simple.CSS](https://simplecss.org) for its CSS.
 
+A demo can be found at [bstdemo.nthp.me](https://bstdemo.nthp.me), the demos `index.html` file can be found [here](https://github.com/nathnp/Basic-Site-Template/blob/Demo/index.html).
+
 ## How to Use
 
 1. Download the latest [release](https://github.com/nathnp/Basic-Site-Template/releases)
