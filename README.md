@@ -12,6 +12,8 @@ A demo can be found at [bstdemo.nthp.me](https://bstdemo.nthp.me), the demo's `i
 
 2. Unzip the download, and open `index.html`
 
+3. Upload both `index.html` and `pics` folder to a hosting provider. [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages) is a good one to get started with
+
 ## How & What to Edit
 
 ### Title
