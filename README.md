@@ -4,7 +4,7 @@ This is a website template designed to help people get a basic landing page on t
 
 This template uses [Simple.CSS](https://simplecss.org) for its CSS.
 
-A demo can be found at [bstdemo.nthp.me](https://bstdemo.nthp.me), the demos `index.html` file can be found [here](https://github.com/nathnp/Basic-Site-Template/blob/Demo/index.html).
+A demo can be found at [bstdemo.nthp.me](https://bstdemo.nthp.me), the demo's `index.html` file can be found [here](https://github.com/nathnp/Basic-Site-Template/blob/Demo/index.html).
 
 ## How to Use
 
@@ -54,6 +54,12 @@ Extra links can be added to the nav bar easily. Simply copy the code listed in [
 ```HTML
 This is a test <a href='https://nthp.me'>link</a>
 ```
+You can also turn a link into a button, like so
+```HTML
+<a class='button' href='https://nthp.me'>link</a>
+```
+These are best used on their own line.
+
 ### More Images
 
 Just add your image to the pics folder, and use the `img` tag.
@@ -63,4 +69,16 @@ Just add your image to the pics folder, and use the `img` tag.
 If you would like to add an image from elsewhere on the web, add the image's link in the `src` field.
 ```HTML
 <img src='https://i258.photobucket.com/albums/hh253/jimifunguzz/rick-astley-dancing.gif'/>
+```
+
+### Highlighting Text
+
+Text cam be highlighted on two main ways.
+The code tag
+```HTML
+This is some text with <code>the code tag</code>
+```
+And with the mark tag
+```HTML
+This is some text with <mark>The mark tag</mark>
 ```
