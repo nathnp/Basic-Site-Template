@@ -44,7 +44,7 @@ Replace `ABOUT YOU` with a small bit about you.
 
 #### Email
 
-Replace `YOUR EMAIL` to have a button that will open the visitors email client, and pre fill your address. Or remove the line, if you don't want it.
+Replace `YOUR EMAIL` with your email address to have a button that will open the visitors email client, and pre fill your address. Or remove the line, if you don't want it.
 
 ### Footer
 
