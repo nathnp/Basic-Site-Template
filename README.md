@@ -77,7 +77,7 @@ If you would like to add an image from elsewhere on the web, add the image's lin
 
 ### Highlighting Text
 
-Text can be highlighted on two main ways.
+Text can be highlighted in two main ways.
 The code tag
 ```HTML
 This is some text with <code>the code tag</code>
