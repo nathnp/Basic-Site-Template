@@ -54,6 +54,12 @@ Extra links can be added to the nav bar easily. Simply copy the code listed in [
 ```HTML
 This is a test <a href='https://nthp.me'>link</a>
 ```
+You can also turn a link into a button, like so
+```HTML
+<a class='button' href='https://nthp.me'>link</a>
+```
+These are best used on their own line
+
 ### More Images
 
 Just add your image to the pics folder, and use the `img` tag.
