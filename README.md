@@ -18,7 +18,7 @@ A demo can be found at [bstdemo.nthp.me](https://bstdemo.nthp.me), the demo's `i
 
 ### Title
 
-`SITE TITLE` is the title of your site, replace `SITE TITLE` with what you want.
+`SITE TITLE` is the title of your site, replace `SITE TITLE` with what you want. There are two of these. The `SITE TITLE` within the `<title>` tags, will display in the browsers tab. The `SITE TITLE` within the `<h1>` tags, with display on the webpage itself.
 
 ### Nav Links
 
