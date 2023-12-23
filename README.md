@@ -33,7 +33,7 @@ For example
 
 ### Picture
 
-Add a picture to the `pics` folder. The replace `FILENAME` with the name of the picture file. Try to keep the file size small. 
+Add a picture to the `pics` folder. Then replace `FILENAME` with the name of the picture file. Try to keep the file size small. 
 
 Example
 ```HTML
