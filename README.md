@@ -2,7 +2,7 @@
 
 This is a website template designed to help people get a basic landing page on the web.
 
-This template uses [Simple.CSS](https://simplecss.org) for its CSS.
+This template uses [nthp.me-css](https://css.nthp.me) for its CSS.
 
 A demo can be found at [bstdemo.nthp.me](https://bstdemo.nthp.me), the demo's `index.html` file can be found [here](https://github.com/nathnp/Basic-Site-Template/blob/Demo/index.html).
 
